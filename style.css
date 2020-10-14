@@ -1,0 +1,21 @@
+header{border-style: double; background-color: #e3a6a1}
+
+footer{border-style: double; background-color: #e3a6a1}
+
+article{background-color: #034b61}
+
+body{font-family: Helvetica}
+
+h4{font-style: italic; color: white}
+h1{color: white}
+h2{color: white}
+h3{color: gainsboro}
+h5{color: darkblue}
+
+a:hover { color: #e3a6a1 }
+a{color: #19b3b1}
+
+ul{list-style: none}
+
+
+
